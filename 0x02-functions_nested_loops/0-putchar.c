@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- * main - print _putchar
- * Description: Program prints 'Main \n' to console
+ * main - main finction
+ * _putchar: print putchar
  * Return: Always 0 (success)
  */
 
