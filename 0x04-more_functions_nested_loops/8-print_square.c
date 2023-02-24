@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * print_squre - prints squre followed by a new line
+ * print_squre - check for a digit
  * @n: number of _ to be printed
- * Return: 0
+ * Return: void
  */
 
 void print_square(int n)
